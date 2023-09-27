@@ -1,4 +1,4 @@
-const URL = "http://localhost:5000/tasks"
+const URL = "/tasks"
 
 export const createTask = async(data) => {
     try {
